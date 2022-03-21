@@ -1,0 +1,7 @@
+password.txt
+keystore
+keystore/*
+public_account.txt
+_tmp
+enode.txt
+geth.ipc
